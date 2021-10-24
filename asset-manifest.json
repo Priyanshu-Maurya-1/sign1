@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sign1/ReactComputerVisionTemplate/static/css/main.133405c3.chunk.css",
-    "main.js": "/sign1/ReactComputerVisionTemplate/static/js/main.91faf068.chunk.js",
-    "main.js.map": "/sign1/ReactComputerVisionTemplate/static/js/main.91faf068.chunk.js.map",
-    "runtime-main.js": "/sign1/ReactComputerVisionTemplate/static/js/runtime-main.fcea1717.js",
-    "runtime-main.js.map": "/sign1/ReactComputerVisionTemplate/static/js/runtime-main.fcea1717.js.map",
-    "static/js/2.6a56a3d3.chunk.js": "/sign1/ReactComputerVisionTemplate/static/js/2.6a56a3d3.chunk.js",
-    "static/js/2.6a56a3d3.chunk.js.map": "/sign1/ReactComputerVisionTemplate/static/js/2.6a56a3d3.chunk.js.map",
-    "index.html": "/sign1/ReactComputerVisionTemplate/index.html",
-    "precache-manifest.5dbabba3377a771be57ea51286e96355.js": "/sign1/ReactComputerVisionTemplate/precache-manifest.5dbabba3377a771be57ea51286e96355.js",
-    "service-worker.js": "/sign1/ReactComputerVisionTemplate/service-worker.js",
-    "static/css/main.133405c3.chunk.css.map": "/sign1/ReactComputerVisionTemplate/static/css/main.133405c3.chunk.css.map",
-    "static/js/2.6a56a3d3.chunk.js.LICENSE.txt": "/sign1/ReactComputerVisionTemplate/static/js/2.6a56a3d3.chunk.js.LICENSE.txt"
+    "main.css": "/sign1/static/css/main.133405c3.chunk.css",
+    "main.js": "/sign1/static/js/main.91faf068.chunk.js",
+    "main.js.map": "/sign1/static/js/main.91faf068.chunk.js.map",
+    "runtime-main.js": "/sign1/static/js/runtime-main.c659dfc8.js",
+    "runtime-main.js.map": "/sign1/static/js/runtime-main.c659dfc8.js.map",
+    "static/js/2.6a56a3d3.chunk.js": "/sign1/static/js/2.6a56a3d3.chunk.js",
+    "static/js/2.6a56a3d3.chunk.js.map": "/sign1/static/js/2.6a56a3d3.chunk.js.map",
+    "index.html": "/sign1/index.html",
+    "precache-manifest.6ec9057c27e158ad6a943976973ab3ab.js": "/sign1/precache-manifest.6ec9057c27e158ad6a943976973ab3ab.js",
+    "service-worker.js": "/sign1/service-worker.js",
+    "static/css/main.133405c3.chunk.css.map": "/sign1/static/css/main.133405c3.chunk.css.map",
+    "static/js/2.6a56a3d3.chunk.js.LICENSE.txt": "/sign1/static/js/2.6a56a3d3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fcea1717.js",
+    "static/js/runtime-main.c659dfc8.js",
     "static/js/2.6a56a3d3.chunk.js",
     "static/css/main.133405c3.chunk.css",
     "static/js/main.91faf068.chunk.js"
