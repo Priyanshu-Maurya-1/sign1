@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sign1/static/css/main.133405c3.chunk.css",
-    "main.js": "/sign1/static/js/main.91faf068.chunk.js",
-    "main.js.map": "/sign1/static/js/main.91faf068.chunk.js.map",
-    "runtime-main.js": "/sign1/static/js/runtime-main.c659dfc8.js",
-    "runtime-main.js.map": "/sign1/static/js/runtime-main.c659dfc8.js.map",
-    "static/js/2.6a56a3d3.chunk.js": "/sign1/static/js/2.6a56a3d3.chunk.js",
-    "static/js/2.6a56a3d3.chunk.js.map": "/sign1/static/js/2.6a56a3d3.chunk.js.map",
-    "index.html": "/sign1/index.html",
-    "precache-manifest.6ec9057c27e158ad6a943976973ab3ab.js": "/sign1/precache-manifest.6ec9057c27e158ad6a943976973ab3ab.js",
-    "service-worker.js": "/sign1/service-worker.js",
-    "static/css/main.133405c3.chunk.css.map": "/sign1/static/css/main.133405c3.chunk.css.map",
-    "static/js/2.6a56a3d3.chunk.js.LICENSE.txt": "/sign1/static/js/2.6a56a3d3.chunk.js.LICENSE.txt"
+    "main.css": "/sign1/ReactComputerVisionTemplate/src/App.js/static/css/main.133405c3.chunk.css",
+    "main.js": "/sign1/ReactComputerVisionTemplate/src/App.js/static/js/main.91faf068.chunk.js",
+    "main.js.map": "/sign1/ReactComputerVisionTemplate/src/App.js/static/js/main.91faf068.chunk.js.map",
+    "runtime-main.js": "/sign1/ReactComputerVisionTemplate/src/App.js/static/js/runtime-main.31cad42d.js",
+    "runtime-main.js.map": "/sign1/ReactComputerVisionTemplate/src/App.js/static/js/runtime-main.31cad42d.js.map",
+    "static/js/2.6a56a3d3.chunk.js": "/sign1/ReactComputerVisionTemplate/src/App.js/static/js/2.6a56a3d3.chunk.js",
+    "static/js/2.6a56a3d3.chunk.js.map": "/sign1/ReactComputerVisionTemplate/src/App.js/static/js/2.6a56a3d3.chunk.js.map",
+    "index.html": "/sign1/ReactComputerVisionTemplate/src/App.js/index.html",
+    "precache-manifest.3e9c6e3012dc231c513180db9f6002b0.js": "/sign1/ReactComputerVisionTemplate/src/App.js/precache-manifest.3e9c6e3012dc231c513180db9f6002b0.js",
+    "service-worker.js": "/sign1/ReactComputerVisionTemplate/src/App.js/service-worker.js",
+    "static/css/main.133405c3.chunk.css.map": "/sign1/ReactComputerVisionTemplate/src/App.js/static/css/main.133405c3.chunk.css.map",
+    "static/js/2.6a56a3d3.chunk.js.LICENSE.txt": "/sign1/ReactComputerVisionTemplate/src/App.js/static/js/2.6a56a3d3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c659dfc8.js",
+    "static/js/runtime-main.31cad42d.js",
     "static/js/2.6a56a3d3.chunk.js",
     "static/css/main.133405c3.chunk.css",
     "static/js/main.91faf068.chunk.js"
